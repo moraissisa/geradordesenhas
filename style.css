@@ -110,3 +110,8 @@ body{
         flex-direction: row;
     }
 }
+.barra {
+    background-color: var(--cor-de-fundo);
+    height: 30px;
+    width: 100px;
+}
